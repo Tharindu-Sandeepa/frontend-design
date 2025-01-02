@@ -8,10 +8,16 @@ Designed using **React** and **Tailwind CSS**. The application is **mobile respo
 
 ## Screenshots
 
-### Desktop View (Left) | Mobile View (Right)
+### Desktop View 
 
 <p align="center">
-  <img src="./screenshots/desktop-screenshot.png" alt="Desktop Screenshot" width="48%" />
-  <img src="./screenshots/mobile-screenshot.png" alt="Mobile Screenshot" width="48%" />
+  <img src="./screenshots/dhome.png" alt="Desktop Screenshot" width="90%" />
+   <img src="./screenshots/dbody.png" alt="Desktop Screenshot" width="90%" />
 </p>
 
+### Mobile View
+<p align="center">
+  <img src="./screenshots/mhome.png" alt="Mobile Home Screenshot" width="30%" />
+  <img src="./screenshots/mbody.png" alt="Mobile Body Screenshot" width="30%" />
+  <img src="./screenshots/mfooter.png" alt="Mobile Footer Screenshot" width="30%" />
+</p>
