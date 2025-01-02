@@ -2,9 +2,10 @@
 
 Designed using **React** and **Tailwind CSS**. The application is **mobile responsive**, ensuring a seamless experience across devices of all screen sizes.
 
-## Features
-- Fully mobile responsive
-- Built with **Tailwind CSS** for styling
+## Technologies
+
+- **React**
+- **Tailwind CSS**
 
 ## Screenshots
 
